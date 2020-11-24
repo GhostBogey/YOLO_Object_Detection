@@ -11,6 +11,7 @@ I would very much want to keep implementing this code as it is what defined my i
 As a side project with a friend of mine, we wanted to build a machine that would make breakfast. With the task of pouring milk and making fried eggs.
 The first step for me was to find a way for the machine to pickup the right object and using opencv, YOLO, was perfect. I implemented the code to find an object and guess what it was, based on that guess, if it was eggs preform action X, if it was milk preform action Y, and if anything else preform action Z.
 
-Since I do not know howto train my own model, I was stuckusing the limited amount YOLO already knew. And in my case was very bad since milkand eggs were not in its database. I was stuck with an egg that was 54% a toilet. 
+Since I do not know how to train my own model, I was stuck using the limited amount YOLO already knew. And in my case was very bad since milkand eggs were not in its database. I was stuck with an egg that was 54% a toilet. 
+My second approach used
 
 I have not picked up the projet since March, and am now enrolled in a AI and Data Science course, trying to learn how to train my very own dataset for this project.
