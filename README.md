@@ -13,4 +13,4 @@ The first step for me was to find a way for the machine to pickup the right obje
 
 Since I do not know howto train my own model, I was stuckusing the limited amount YOLO already knew. And in my case was very bad since milkand eggs were not in its database. I was stuck with an egg that was 54% a toilet. 
 
-I have not picked up the projet since March, and am now enrolled in a AI and Data Science course, trying to learn how to train my very own datafor this project.
+I have not picked up the projet since March, and am now enrolled in a AI and Data Science course, trying to learn how to train my very own dataset for this project.
